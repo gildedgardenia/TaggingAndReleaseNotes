@@ -18,5 +18,6 @@ MINOR
 PATCH
 
 ## John's Releases
+Major release
 
 ## Courtney's Releases
