@@ -24,3 +24,5 @@ Major release
 
 MAJOR Release #3 
 
+MINOR Release v3.0.1.0
+
