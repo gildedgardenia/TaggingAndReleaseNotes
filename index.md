@@ -14,5 +14,6 @@ Your code should be appropriately tagged with the correct version and the releas
 ## Sally's Releases
 
 ## John's Releases
+minor-release
 
 ## Courtney's Releases
