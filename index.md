@@ -15,6 +15,7 @@ Your code should be appropriately tagged with the correct version and the releas
 
 MAJOR
 MINOR
+PATCH
 
 ## John's Releases
 
