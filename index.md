@@ -18,3 +18,5 @@ MAJOR
 ## John's Releases
 
 ## Courtney's Releases
+
+MINOR Release v3.0.1.0
