@@ -16,5 +16,6 @@ Your code should be appropriately tagged with the correct version and the releas
 MAJOR
 
 ## John's Releases
+patch release
 
 ## Courtney's Releases
