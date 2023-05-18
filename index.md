@@ -14,9 +14,17 @@ Your code should be appropriately tagged with the correct version and the releas
 ## Sally's Releases
 
 MAJOR
+MINOR
+PATCH
 
 ## John's Releases
+Major release
 
 ## Courtney's Releases
 
+MAJOR Release #3 
+
+MINOR Release v3.0.1.0
+
 PATCH release for v3.1.1
+
