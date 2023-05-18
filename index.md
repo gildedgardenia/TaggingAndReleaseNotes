@@ -13,6 +13,8 @@ Your code should be appropriately tagged with the correct version and the releas
 
 ## Sally's Releases
 
+MAJOR
+
 ## John's Releases
 
 ## Courtney's Releases
